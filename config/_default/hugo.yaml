@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Agroforestry CSA Project – Sierra Leone
-baseURL: 'https://anuvindab.github.io/Agroforestry-Website/'
+baseURL: 'https://your-site-name.netlify.app/'
+
 
 ############################
 ## LANGUAGE
