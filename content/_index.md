@@ -16,12 +16,20 @@ sections:
         
         <br>
         
-        {{% cta cta_link="./team/" cta_text="Meet our research team →" %}}
+        {{% cta cta_link="./team/" cta_text="Meet our research team" %}}
     design:
       background:
-        gradient_start: '#4bb4e3'
-        gradient_end: '#2b94c3'
+        gradient_start: '#2d5a27'
+        gradient_end: '#4a7c59'
         text_color_light: true
       spacing:
         padding: ['40px', '0', '40px', '0']
+    cta:
+      url: './team/'
+      label: 'Meet our research team'
+      icon_pack: fas
+      icon: users
+    cta_alt:
+      url: './about/'
+      label: 'Learn More'
 ---
