@@ -15,8 +15,11 @@ sections:
         Enhancing **climate resilience** and **food security** through innovative e-voucher systems for agroforestry adoption. Our randomized control trial investigates how digital platforms can nudge farmers toward sustainable agricultural practices across Sierra Leone's farming communities.
         
         <br>
+        <br>
         
-        {{% cta cta_link="./team/" cta_text="Meet our research team" %}}
+        <a href="./team/" style="background-color: #7fb069; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
+          🌱 Meet our research team
+        </a>
     design:
       background:
         gradient_start: '#2d5a27'
@@ -24,12 +27,4 @@ sections:
         text_color_light: true
       spacing:
         padding: ['40px', '0', '40px', '0']
-    cta:
-      url: './team/'
-      label: 'Meet our research team'
-      icon_pack: fas
-      icon: users
-    cta_alt:
-      url: './about/'
-      label: 'Learn More'
 ---
