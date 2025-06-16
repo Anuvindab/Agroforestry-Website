@@ -9,8 +9,6 @@ sections:
       title: |
         Electronic Vouchers for
         Climate Smart Agriculture in Sierra Leone
-      image:
-        filename: agroforestry-hero.jpg
       text: |
         <br>
         
@@ -53,17 +51,9 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
-          filename: sierra-leone-farming.jpg
-          filters:
-            brightness: 0.7
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+        color: '#e8f4f8'
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: markdown
     content:
@@ -83,7 +73,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#e8f4f8'
+        color: '#f0f8ff'
       spacing:
         padding: ['20px', '0', '20px', '0']
   
