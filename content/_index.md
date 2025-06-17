@@ -9,6 +9,8 @@ sections:
       title: |
         Electronic Vouchers for
         Climate Smart Agriculture in Sierra Leone
+      image:
+        filename: climate-smart-agriculture.jpg
       text: |
         <br>
         
