@@ -14,7 +14,9 @@ sections:
       text: |
         <br>
         
+        <div style="font-size: 0.9em; line-height: 1.6;">
         Enhancing **climate resilience** and **food security** through innovative e-voucher systems for agroforestry adoption. Our randomized control trial investigates how digital platforms can nudge farmers toward sustainable agricultural practices across Sierra Leone's farming communities.
+        </div>
         
         <br>
         <br>
